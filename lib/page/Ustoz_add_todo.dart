@@ -26,7 +26,11 @@ class _AddTodoPageState extends State<AddTodoPage> {
             maxLines: 2,
 
             decoration: InputDecoration(
-              
+
+
+
+
+
 
 
               labelText: "Text",
